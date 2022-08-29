@@ -31,5 +31,5 @@ while True:
         print("click")
         # pyautogui.click()
         # pyautogui.sleep(1)
-    cv2.imshow("Project Spearfish",frame)
+    cv2.imshow("Eye Mouse Controller",frame)
     cv2.waitKey(1)
